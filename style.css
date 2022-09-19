@@ -1,0 +1,324 @@
+* {
+    margin: 0;
+    padding: o;
+}
+
+.main {
+    width: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(download\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.navbar {
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon {
+    width: 200ox;
+    float: left;
+    height: 70px;
+}
+
+.logo {
+    color: #ffffff;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+}
+
+.log {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    width: 900px;
+    opacity: 0.3;
+    float: left;
+}
+
+.box {
+    width: 250px;
+    height: 410px;
+    background-color: #ffffff;
+    float: right;
+    margin-top: 35px;
+}
+
+.menu {
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li {
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: orange;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover {
+    color: #ffffff;
+    cursor: pointer;
+    box-shadow: 0 2px 50px 0 #c24700, 0 28px 100px 0 #c25400;
+    transition: 2s;
+}
+
+.content {
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #ffffff;
+    position: relative;
+    float: left;
+}
+
+.content .cn {
+    width: 160px;
+    height: 40px;
+    background: transparent;
+    color: aqua;
+    font-family: sans-serif;
+    border-color: aqua;
+    border-width: 2px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    font-size: 15px;
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.cn:hover {
+    cursor: pointer;
+    box-shadow: 0 2px 50px 0 #00C2BA, 0 28px 100px 0 #00C2BA;
+    transition: 2s;
+}
+
+.content .cn a {
+    text-decoration: honeydew;
+    color: white;
+    transition: .3s ease;
+}
+
+.content span {
+    color: orange;
+    font-size: 25px;
+}
+
+.heading {
+    color: black;
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: 28px;
+}
+
+.para {
+    color: black;
+    margin-left: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.more {
+    text-decoration: none;
+    color: black;
+    background-color: yellowgreen;
+    margin-left: 10px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .3s ease;
+}
+
+.more:hover {
+    background-color: rgba(135, 206, 250, 0.945);
+    cursor: pointer;
+    box-shadow: 0 2px 50px 0 #00C2BA, 0 28px 100px 0 #00C2BA;
+    transition: 2s;
+}
+
+.peach {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.marc {
+    width: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(download\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.legend {
+    display: block;
+    margin: 0px auto;
+    width: 300px;
+    height: 300px;
+}
+
+.dhonipara {
+    color: #ffffff;
+    margin-left: 10px;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.marry {
+    width: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(download\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.tie {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: Verdana;
+}
+
+.gogo {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    line-height: 20px;
+}
+
+.oreo {
+    width: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(download\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.tied {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: Verdana;
+}
+
+.joy {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    line-height: 20px;
+}
+
+.pico {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    width: 900px;
+    opacity: 0.3;
+}
+
+.zeus {
+    width: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(download\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.tiedy {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: Verdana;
+}
+
+.viru {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    line-height: 20px;
+}
+
+.vary {
+    width: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(download\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.contactbox {
+    width: 500px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 0 #999;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+form {
+    margin: 35px;
+}
+
+.input-field {
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+    outline: none;
+}
+
+.textarea-field {
+    height: 150px;
+    padding-top: 10px;
+}
+
+.btnn {
+    border-radius: 20px;
+    color: #fff;
+    margin-top: 18px;
+    padding: 10px;
+    background-color: #47c35a;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}
+
+.btnn:hover {
+    cursor: pointer;
+    box-shadow: 0 2px 50px 0 #00C2BA, 0 28px 100px 0 #00C2BA;
+    transition: 2s;
+}
